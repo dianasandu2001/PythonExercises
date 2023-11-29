@@ -8,7 +8,7 @@ import mysql.connector
 
 connection = mysql.connector.connect(
     host='localhost',
-    port=3307,
+    port=3306,
     database='flight_game',
     user='root',
     password='dianapass',
